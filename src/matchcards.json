@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "image": "./assets/images/Eddie_ Murphy.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/Chelsea_Handler.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/Dave_Chapelle.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/Gabriel_Iglesias.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/Jim_Carey.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/Jim_Gaffigan.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/Kevin_Hart.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/Louis_CK.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/Melissa_McCarthy.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/Tiffany_Haddish.jpg",
+    "clicked": false
+}
+]
