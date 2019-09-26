@@ -4,12 +4,6 @@ This is a react based web application that allows you to guess a random comedian
 ##Motivation
 The goal was to showcase my skills in react by building a basic react app that has multiple components and props.
 
-##UI/UX
-The design of the application uses Bootstrap as a framework. It is intentionally designed to be responsive to your device. 
-
-##How to Use
-You can use this game here!
-
 ##Technologies Used
 React
 Heroku Deployment
